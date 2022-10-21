@@ -1,0 +1,18 @@
+section {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  max-width: 70%;
+  border-top: outset;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.react-link {
+  text-decoration: none;
+  color: #ff7b00;
+}
